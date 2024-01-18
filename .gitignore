@@ -1,0 +1,37 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyo
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyo
+
+# Virtual Environment
+envname/
+
+# FastAPI generated files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyo
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyo
+
+# .env files
+#.env
