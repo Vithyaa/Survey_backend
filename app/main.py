@@ -20,7 +20,7 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return {"Hello": "World"}
+    return {"Success": "Survey_backend"}
 
 class UserCreate(BaseModel):
     email: str
